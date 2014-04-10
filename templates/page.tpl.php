@@ -120,7 +120,7 @@
 
                     <a href="#">
 
-                        <img src="../img/ouLogo.png" class="img-responsive" alt="Logo" /></a>
+                        <img src="img/ouLogo.png" class="img-responsive" alt="Logo" /></a>
 
                 </div>
 
