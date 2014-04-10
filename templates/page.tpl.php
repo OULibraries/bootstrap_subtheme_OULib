@@ -73,6 +73,37 @@
  * @ingroup themeable
  */
 ?>
+<!-- OU Global Navigation Bar -->
+<div class="globalheader">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-offset-6">
+
+                    <ul>
+
+                        <li><a class="tip home" href="http://www.ou.edu/web.html" alt="OU Home link"><span>OU Homepage</span></a></li>
+
+                        <li><a class="tip search" href="http://www.ou.edu/content/ousearch.html" alt="OU Search link"><span>Search OU</span></a></li>
+
+                        <li><a class="tip social" href="http://www.ou.edu/web/socialmediadirectory.html" alt="OU Social Media link"><span>OU Social Media</span></a></li>
+
+                        <li class="wordmark">The University of Oklahoma</li>
+
+                    </ul>
+
+                    <div style="clear: both;"></div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+ <!-- end Ou Global Navigation bar -->
 <header id="navbar" role="banner" class="<?php print $navbar_classes; ?>">
   <div class="container">
     <div class="navbar-header">
