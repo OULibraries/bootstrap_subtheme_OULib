@@ -7,3 +7,7 @@
 	box-shadow: 0px 10px 35px 2px #eeeeee; /*THIS does not work as expected*/
 
 }
+
+.footer {
+	Margin-top:0px;
+}
