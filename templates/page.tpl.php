@@ -234,7 +234,7 @@
 
                 <div class="col-md-3" style="padding-bottom: 30px;">
 
-                    <img src="img/footerlogo.png" alt="footerLogo" style="float: left; padding-right: 1em;" />
+                    <img src="<?php print $GLOBALS['base_url']."/".path_to_theme() ?>/img/footerlogo.png" alt="footerLogo" style="float: left; padding-right: 1em;" />
 
                     <a href="#">University Libraries</a><br />
 
