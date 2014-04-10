@@ -225,4 +225,96 @@
 
   </div>
 </div>
+<!-- ou global nav footer -->
+  <div class="footer">
+
+<div class="container">
+
+            <div class="row" style="padding-top: 20px;">
+
+                <div class="col-md-3" style="padding-bottom: 30px;">
+
+                    <img src="img/footerlogo.png" alt="footerLogo" style="float: left; padding-right: 1em;" />
+
+                    <a href="#">University Libraries</a><br />
+
+                    401 West Brooks Street<br />
+
+                    Norman, OK 73019<br />
+
+                    (405) 325-4142
+
+                </div>
+
+                <div class="col-md-4" style="padding-bottom: 30px;">
+
+                    <span style="width: 50%; float: left;">
+
+                        <ul>
+
+                            <li><a href="http://libraries.ou.edu/cms/default.aspx?id=17" title="Contact Us">Contact Us</a></li>
+
+                            <li><a href="http://libraries.ou.edu/jobs/default.aspx" title="Employment">Employment</a></li>
+
+                            <li><a href="http://libraries.ou.edu/cms/default.aspx?id=16" title="About This Site">About This Site</a></li>
+
+                            <li><a href="http://libraries.ou.edu/cms/default.aspx?id=2" title="Other Libraries">Other Libraries</a></li>
+
+                        </ul>
+
+                    </span>
+
+                    <div style="width: 50%; float: right;">
+
+                        <ul>
+
+                            <li><a href="http://www.ou.edu/publicaffairs/WebPolicies/accessstatement.html" title="Accessibility">Accessibility</a></li>
+
+                            <li><a href="http://www.ou.edu/content/publicaffairs/WebPolicies/copyright.html" title="Copyright">Copyright</a></li>
+
+                            <li><a href="http://www.ou.edu/content/web/landing/policy.html" title="Policies">Policies</a></li>
+
+                            <li><a href="http://ouhsc.edu/hipaa/" title="HIPAA">HIPAA</a></li>
+
+                            <li><a href="http://www.ou.edu/content/web/landing/legalnotices.html" title="Legal Notice">Legal Notice</a></li>
+
+                        </ul>
+
+                    </div>
+
+                    <div style="clear: both; padding-bottom: 30px;"></div>
+
+                </div>
+
+                <div class="col-md-5">
+
+                    <div class="social">
+
+                        <ul>
+
+                            <li><a href="http://www.facebook.com/UniversityLibraries" class="facebook" title="facebook"></a></li>
+
+                            <li><a href="http://twitter.com/OULibrarian" class="twitter" title="twitter"></a></li>
+
+                            <li><a href="http://www.youtube.com/user/OULibraryOverview" class="youtube" title="youtube"></a></li>
+
+                            <li><a href="http://pinterest.com/ouhoscurator/ou-hos-collections" class="pinterest" title="pinterest"></a></li>
+
+                        </ul>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            
+
+        </div>
+
+
+
+</footer>
+
+<!-- footer -->
 
