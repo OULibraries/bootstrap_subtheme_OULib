@@ -120,7 +120,7 @@
 
                     <a href="#">
 
-                        <img src="img/ouLogo.png" class="img-responsive" alt="Logo" /></a>
+                        <img src="img/oulogo.png" class="img-responsive" alt="Logo" /></a>
 
                 </div>
 
@@ -225,6 +225,6 @@
 
   </div>
 </div>
-<footer class="footer container">
+<!-- <footer class="footer container">
   <?php print render($page['footer']); ?>
-</footer>
+</footer> -->
