@@ -120,7 +120,7 @@
 
                     <a href="#">
 
-                        <img src="img/oulogo.png" class="img-responsive" alt="Logo" /></a>
+                        <img src="<?php print $GLOBALS['base_url']."/".path_to_theme() ?>/img/oulogo.png" class="img-responsive" alt="Logo" /></a>
 
                 </div>
 
