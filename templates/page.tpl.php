@@ -133,6 +133,7 @@
     </div>
     
     <!-- end ou logo header -->
+<div class="container box-shadow">
  
 <header id="navbar" role="banner" class="<?php print $navbar_classes; ?> navbar-inverse">
   <div class="container">
@@ -169,7 +170,7 @@
   </div>
 </header>
 
-<div class="main-container container">
+<div class="main-container">
 
   <header role="banner" id="page-header">
     <?php if (!empty($site_slogan)): ?>
@@ -218,6 +219,7 @@
     <?php endif; ?>
 
   </div>
+</div>
 </div>
 <!-- ou global nav footer -->
   <div class="footer">
