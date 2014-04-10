@@ -103,7 +103,37 @@
         </div>
 
     </div>
- <!-- end Ou Global Navigation bar -->
+ <!-- end ou global navigation bar -->
+ <!-- ou logo Header -->
+ 
+ <div class="header">
+
+        <div class="container">
+
+		<!-- row 1: navigation -->
+
+    
+
+            <div class="row">
+
+                <div class="col-md-12">
+
+                    <a href="#">
+
+                        <img src="../img/ouLogo.png" class="img-responsive" alt="Logo" /></a>
+
+                </div>
+
+                
+
+            </div>
+
+        </div>
+
+    </div>
+    
+    <!-- end ou logo header -->
+ 
 <header id="navbar" role="banner" class="<?php print $navbar_classes; ?>">
   <div class="container">
     <div class="navbar-header">
