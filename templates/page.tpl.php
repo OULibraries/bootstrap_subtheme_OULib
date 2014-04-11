@@ -133,7 +133,7 @@
     </div>
     
     <!-- end ou logo header -->
-<div class="container box-shadow">
+<div class="container">
  
 <header id="navbar" role="banner" class="<?php print $navbar_classes; ?> navbar-inverse">
   <div class="container">
@@ -148,7 +148,7 @@
         <!-- <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span> -->
-        <p class="small">MENU</p>
+        <p class="small white">MENU</p>
       </button>
     </div>
 
