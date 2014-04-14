@@ -203,8 +203,6 @@ a.tip:hover span::before {
 
     padding: 1.5em 0;
 
-    min-height: 119px;
-
     color: #999;
 
     font-size: .9em;
@@ -247,7 +245,7 @@ a.tip:hover span::before {
 
     list-style: none;
 
-    margin: 0 0 .2em 0;
+    margin: 0 0 0 0;
 
 }
 

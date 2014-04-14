@@ -73,6 +73,7 @@
  * @ingroup themeable
  */
 ?>
+<div id="holder">
 <!-- OU Global Navigation Bar -->
 <div class="globalheader">
 
@@ -133,6 +134,7 @@
     </div>
     
     <!-- end ou logo header -->
+      
 <div class="container">
  
 <header id="navbar" role="banner" class="<?php print $navbar_classes; ?> navbar-inverse">
@@ -169,6 +171,9 @@
     <?php endif; ?>
   </div>
 </header>
+
+<!-- body tag for stick footer -->
+<div id="body">
 
 <div class="main-container">
 
@@ -221,6 +226,10 @@
   </div>
 </div>
 </div>
+
+<!-- end body tag -->
+</div>
+
 <!-- ou global nav footer -->
   <div class="footer">
 
@@ -313,4 +322,5 @@
 </footer>
 
 <!-- footer -->
+</div>
 

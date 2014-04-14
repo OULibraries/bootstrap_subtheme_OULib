@@ -8,10 +8,27 @@
 
 }
 
-.footer {
-	Margin-top:0px;
-}
-
 .white {
 	color:#ffffff;	
+}
+
+html,body{
+    height: 100%;
+}
+
+#holder{
+    min-height: 100%;
+    position:relative;
+}
+
+#body{
+    padding-bottom: 200px;    /* height of footer */
+}
+
+.footer{
+    min-height: 170px; 
+    width:100%;
+    position: absolute;
+    left: 0;
+    bottom: 0; 
 }
