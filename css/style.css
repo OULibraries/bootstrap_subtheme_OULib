@@ -32,3 +32,9 @@ html,body{
     left: 0;
     bottom: 0; 
 }
+
+.navbar-toggle, navbar-toggle:hover {
+
+  background-color: #585859;
+  border-color: #31347B;
+ }
